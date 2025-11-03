@@ -23,12 +23,6 @@ This portal provides a unified platform for healthcare administrators to manage 
 - **Analytics**: Interactive charts and graphs for appointment analytics
 - **Routing**: React Router DOM 6.30.1
 
-### For Patients
-1. Access the patient portal
-2. Book appointments with doctors
-3. Track status of appointments
-4. Receive updates on appointment progress
-
 ### For Healthcare Administrators
 1. Login to admin dashboard
 2. View all patient appointments
