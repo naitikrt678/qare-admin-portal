@@ -23,29 +23,6 @@ This portal provides a unified platform for healthcare administrators to manage 
 - **Analytics**: Interactive charts and graphs for appointment analytics
 - **Routing**: React Router DOM 6.30.1
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (version 18 or higher)
-- npm or yarn package manager
-
-
-## Project Structure
-
-```
-src/
-├── components/         # Reusable UI components
-│   └── ui/            # ShadCN UI components
-├── pages/             # Page components
-├── data/              # Mock data and API calls
-├── types/             # TypeScript type definitions
-├── hooks/             # Custom React hooks
-└── lib/               # Utility functions
-```
-
-## Usage
-
 ### For Patients
 1. Access the patient portal
 2. Book appointments with doctors
